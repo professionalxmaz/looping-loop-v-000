@@ -5,4 +5,4 @@ def looping
 end
 
 #call your method here
-looping
+looping()
